@@ -1,0 +1,8 @@
+node_modules
+.next
+data/cache
+tools
+.env.local
+*.log
+tsconfig.tsbuildinfo
+2026-10-14-Export for Program Book.csv
